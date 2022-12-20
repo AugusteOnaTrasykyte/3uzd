@@ -1,5 +1,5 @@
 # V3.0
-Sukurtas setup.exe failas ir setup1.msi 
+Sukurtas setup.exe failas ir setup1.msi programos instaliavimui. Atsisiuntus programą ji atsiranda darbalaukyje ir 'start' meniu pavadinimu "Skaiciuokle". 
 # Programos naudojimo instrukcija 
 1. Pasirinkite ar nuskaitysite jau turimą failą, ar norite generuoti naują.
 2. Atitinkamai įveskite failo pavadinimą arba studentų kiekį, kiek jų norite sugeneruoti.
